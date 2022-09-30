@@ -1,5 +1,5 @@
 # Burritos
-[klaar gemaakte burritos](https://upload.wikimedia.org/wikipedia/commons/6/60/Burrito.JPG)
+![klaar gemaakte burritos](https://upload.wikimedia.org/wikipedia/commons/6/60/Burrito.JPG)
 
 ## "Benodigdheden"
 
